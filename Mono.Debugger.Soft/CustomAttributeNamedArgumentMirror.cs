@@ -24,7 +24,7 @@ namespace Mono.Debugger.Soft {
 
 		public FieldInfoMirror Field {
 			get {
-				return field;
+				return @field;
 			}
 		}
 
